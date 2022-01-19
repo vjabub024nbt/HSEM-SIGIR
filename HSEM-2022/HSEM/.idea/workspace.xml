@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="048019d4-5b06-4178-928f-e2be0c01e077" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1etlqGyYm7oRo35xiQWYK6EXLPI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="048019d4-5b06-4178-928f-e2be0c01e077" name="Default Changelist" comment="" />
+      <created>1595148958306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595148958306</updated>
+      <workItem from="1595148959596" duration="64000" />
+      <workItem from="1595234753025" duration="507000" />
+      <workItem from="1595235427281" duration="2895000" />
+      <workItem from="1595400411083" duration="527000" />
+      <workItem from="1595402085547" duration="355000" />
+      <workItem from="1595605872893" duration="1154000" />
+      <workItem from="1597391948164" duration="201000" />
+      <workItem from="1609740557870" duration="1703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="612" key="DirDiffDialog" timestamp="1595149023646">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="100" y="123" width="1240" height="612" key="DirDiffDialog/0.23.1440.812@0.23.1440.812" timestamp="1595149023646" />
+    <state x="591" y="98" key="SettingsEditor" timestamp="1595399589031">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595235408260" />
+    <state x="443" y="85" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1595236010821" />
+    <state x="591" y="98" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1595399589031" />
+  </component>
+</project>

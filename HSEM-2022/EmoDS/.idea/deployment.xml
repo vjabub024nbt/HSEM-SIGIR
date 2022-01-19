@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wzw@10.10.1.87:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="wzw@10.10.1.87:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wzw/EmoDS" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

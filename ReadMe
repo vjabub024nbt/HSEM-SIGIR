@@ -1,0 +1,20 @@
+Due to the limited file size, we merely update a small fraction of the whole dataset. 
+
+1. The full NLPCC2017 data can be accessed via: http://tcci.ccf.org.cn/conference/2017/
+
+2. We use the NLPCC2013 and NLPCC2014 datasets to train our sentiment classifier. 
+   The NLPCC2013 data can be accessed via: http://tcci.ccf.org.cn/conference/2013/
+   The NLPCC2014 data can be accessed via: http://tcci.ccf.org.cn/conference/2014/
+
+## Our Model
+* EmotionClassifier: the code of our Bi-LSTM emotion classifier. We use it for annotating our dataset and computing the emotion accuracy
+* HSEM: the code of our model.
+
+## Baseline Code
+* ECM: code of ECM model, from https://github.com/thu-coai/ecm
+    - can also use this project to run the seq2seq and seq2seq_emb
+ 
+* EmoDS: code of EmoDS-EV model, from https://github.com/JocelynSong/EmotionalDialogueSystem
+
+## Other Resources
+* the pre-trained word embedding: https://github.com/Embedding/Chinese-Word-Vectors
